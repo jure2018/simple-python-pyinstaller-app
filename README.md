@@ -1,4 +1,5 @@
 # simple-python-pyinstaller-app
+## Notes: Docker image - python:2-alpine may not be the right python image. Need to investigate.
 
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
